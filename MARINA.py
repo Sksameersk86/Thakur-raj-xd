@@ -664,7 +664,6 @@ def main():
 	elif ch in ('4','04','44','D','d'):
                __Old4__()
 def __Old1__():
-   haters only feel The power of owner marina 
     user=[]
     clear()
     print(f'\33[38;5;160m[\033[1;97mᯤ\33[38;5;160m] \033[1;97mEXAMPLE \33[38;5;160m  ▶ \033[1;97m10000\33[38;5;37m|\033[1;97m20000\33[38;5;37m|\033[1;97m30000\33[38;5;37m|\033[1;97m40000')
