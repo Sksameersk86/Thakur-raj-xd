@@ -21,7 +21,7 @@ for xd in range(10000):
         aa='Mozilla/5.0 (Linux; U; Android'
         b=random.choice(['6','7','8','9','10','11','12','13'])
         c=f' TL-tl; {str(gt)}'
-        g='AppleWebKit/537.36 (KHTML, like Gecko) Chrome/'
+        g='AppleWebKity/537.36 (KHTML, like Gecko) Chrome/'
         h=random.randrange(73,100)
         i='0'
         j=random.randrange(4200,4900)
@@ -665,9 +665,6 @@ def main():
 		__Old3__()
 	elif ch in ('4','04','44','D','d'):
                __Old4__()
-         elif ch in ('5','05','55','E','E')
-                __Old5__()
-	elif ch in ('6','06','66','F','F')
 def __Old1__():
     user=[]
     clear()
