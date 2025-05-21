@@ -637,14 +637,14 @@ logo = f"""
 \33[38;5;160m[\033[1;97mᯤ\33[38;5;160m] \033[1;97mTricker   \33[38;5;160m▶  \033[1;97 Owner of IEI team
 \33[38;5;160m[\033[1;97mᯤ\33[38;5;160m] \033[1;97mFEATURE    \33[38;5;160m▶  \033[1;97mOLD CLONE 
 \33[38;5;160m[\033[1;97mᯤ\33[38;5;160m] \033[1;97mVERSION    \33[38;5;160m▶  \033[1;97mPAID \33[38;5;37m≫ \033[1;97m10.0.0
-\33[38;5;37m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"""
-[0;97m [1;34m [1;35m [1;36m [1;37m  [1;92mCopy Token and send to Me whatsapp[1;97m [1;92mYour Token:   [1;92mYour Token Is Not Approved Already  [1;93m Press enter to send Token[1;97m [1;
+\33[38;5;37m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+33[38;5;160m[\033[Copy Token and send to Me whatsapp[1;97m [1;92mYour Token:   [1;92mYour Token Is Not Approved Already  [1;93m Press enter to send Token[1;97m ]
 def clear():
 	os.system('clear');print(logo)
 def main():
 	clear()
 	animation = ["[\x1b[1;91m■\x1b[0m□□□□□□□□□]","[\x1b[1;92m■■\x1b[0m□□□□□□□□]", "[\x1b[1;93m■■■\x1b[0m□□□□□□□]", "[\x1b[1;94m■■■■\x1b[0m□□□□□□]", "[\x1b[1;95m■■■■■\x1b[0m□□□□□]", "[\x1b[1;96m■■■■■■\x1b[0m□□□□]", "[\x1b[1;97m■■■■■■■\x1b[0m□□□]", "[\x1b[1;98m■■■■■■■■\x1b[0m□□]", "[\x1b[1;99m■■■■■■■■■\x1b[0m□]", "[\x1b[1;910m■■■■■■■■■■\x1b[0m]"]
-	for i in range(30):
+	for i in range(50):
 		time.sleep(0.1)
 		sys.stdout.write(f"\r{r}[{w}ᯤ{r}]{s} LOADING...\033[97;1m " + animation[l % len(animation)] +"\x1b[0m ")
 		sys.stdout.flush()
