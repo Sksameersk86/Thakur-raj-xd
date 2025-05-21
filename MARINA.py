@@ -638,7 +638,6 @@ logo = f"""
 \33[38;5;160m[\033[1;97mᯤ\33[38;5;160m] \033[1;97mFEATURE    \33[38;5;160m▶  \033[1;97mOLD CLONE 
 \33[38;5;160m[\033[1;97mᯤ\33[38;5;160m] \033[1;97mVERSION    \33[38;5;160m▶  \033[1;97mPAID \33[38;5;37m≫ \033[1;97m10.0.0
 \33[38;5;37m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-33[38;5;160m[\033[Copy Token and send to Me whatsapp[1;97m [1;92mYour Token:   [1;92mYour Token Is Not Approved Already  [1;93m Press enter to send Token[1;97m ]
 def clear():
 	os.system('clear');print(logo)
 def main():
