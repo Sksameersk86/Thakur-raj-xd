@@ -8,7 +8,7 @@ import bs4,json,sys,time,random,re,subprocess,platform,struct,string,uuid,base64
 from concurrent.futures import ThreadPoolExecutor as tred
 from concurrent.futures import ThreadPoolExecutor as ThreadPool
 os.system('pkg install espeak')
-
+<module> bs4 install request
 loop,count,oks,cps,twf,usragent,ugen,okhbros,uas=0,0,[],[],[],[],[],[],[]
 
 y="\x1b[38;5;208m";g="\x1b[38;5;46m";s="\33[38;5;37m";r="\33[38;5;160m";w="\033[1;97m"
