@@ -609,7 +609,7 @@ os.system('espeak -a 300 " Assalamu' 'olaikum"')
 os.system('espeak -a 300 " Your,   Real,  Name,"')
 NameX =input('\033[1;97m[\033[1;92m•\033[1;97m]\033[1;92m WHAT IS YOUR NAME \033[1;91m:\33[1;32m')
 os.system('espeak -a 300 "well,come to,Marina, tools"')
-os.system('xdg-openhttps://www.facebook.com/profile.php?id=100088772568972.Ok.Bro')
+os.system('xdg-openhttps://www.facebook.com/profile.php?id=61579589454986')
 logo = f"""
 \033[0;92m╔━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╗
 
@@ -695,7 +695,7 @@ def __Old2__():
     with tred(max_workers=30) as jihad:
         clear()
         print(f'\33[38;5;160m[\033[1;97mᯤ\33[38;5;160m] \033[1;97mTOTAL ID \33[38;5;160m▶ \033[1;97m{limit}')
-        print(f'\33[38;5;160m[\033[1;97mᯤ\33[38;5;160m] \033[1;97mUSED AIRPLANE MODE AFTER 5 MINUTE ')
+        print(f'\33[38;5;160m[\033[1;97mᯤ\33[38;5;160m] \033[1;97mUSED AIRPLANE RAJ XWD MODE AFTER 5 MINUTE ')
         linex()
         for mal in user:
             uid=year_code+mal
@@ -987,3 +987,4 @@ def login4(uid):
         loop+=1
     except Exception as e:time.sleep(30)
 main()
+
